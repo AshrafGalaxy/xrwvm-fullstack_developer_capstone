@@ -1,7 +1,10 @@
-# Best Cars Dealership - Full Stack Cloud Application
+# fullstack_developer_capstone
+
+## Project Name: fullstack_developer_capstone
+### Best Cars Dealership - Full Stack Cloud Application
 
 ## Project Overview
-Best Cars Dealership is a comprehensive full-stack web application designed for a national car retailer in the United States. The platform enables users to browse nationwide dealership branches, view available car makes and models, read reviews from real customers with AI sentiment analysis, and submit new dealership reviews.
+Best Cars Dealership is a comprehensive full-stack web application developed as part of the **fullstack_developer_capstone** project for a national car retailer in the United States. The platform enables users to browse nationwide dealership branches, view available car makes and models, read reviews from real customers with AI sentiment analysis, and submit new dealership reviews.
 
 ## Architecture & Technology Stack
 - **Frontend**: React 18, Bootstrap 5, Modern Responsive UI
@@ -11,4 +14,4 @@ Best Cars Dealership is a comprehensive full-stack web application designed for 
 - **DevOps & Cloud**: Docker containerization, Kubernetes, GitHub Actions CI/CD, IBM Cloud Code Engine
 
 ## Authors
-- Karan Bainade (karanbainade9356-png)
+- Ashraf Ahmed (AshrafGalaxy) / Karan Bainade
